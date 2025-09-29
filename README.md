@@ -5,6 +5,8 @@ Because using your brain is too hard!
 
 ![Static Badge](https://img.shields.io/badge/status-fire_%F0%9F%94%A5-red) ![Static Badge](https://img.shields.io/badge/python_twin_%F0%9F%A5%80-blue)
 
+![FlowTree](flowtree.png)
+
 
 ## Requirements
 * Python 3.x
