@@ -25,5 +25,10 @@ Basic usage:
 ```bash
 python3 math.py
 ```
+
+Basic test:
+```bash
+pytest test_calc.py
+```
 ## License
 This project is public domain.
